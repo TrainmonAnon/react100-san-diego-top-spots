@@ -1,0 +1,1 @@
+This is a project from React100 where you take in a file stored online and transform it into a list of San Diego Top Spots with descriptions and Google Map links.
